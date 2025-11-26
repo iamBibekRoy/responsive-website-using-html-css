@@ -1,43 +1,47 @@
 # responsive-website-using-html-css
-Pub & Lounge – Responsive Website
+# Pub & Lounge – Responsive Website
 
-A fully responsive and modern Pub & Lounge website built using HTML, CSS, and Bootstrap.
-This project showcases a sleek UI with essential sections like Hero, About, Menu, Gallery, and Contact, making it perfect for pubs, lounges, cafés, or bar-themed website concepts.
 
-🚀 Features
+A fully responsive **Pub & Lounge website** built using **HTML, CSS, and Bootstrap**.
+This project is inspired by a modern bar/lounge-style layout and includes essential sections such as Hero, About, Menu, Gallery, and Contact.
+Designed with a clean UI and mobile-first approach, it serves as a great front-end project for practice or portfolio showcase.
 
-Fully responsive layout (mobile-first)
 
-Built with HTML, CSS, and Bootstrap
+---
 
-Modern Hero section with call-to-action
 
-About section for business story
+## ⭐ Features
+- Fully responsive design using **Bootstrap 5**
+- Modern hero section with headline & CTA
+- About section for business introduction
+- Menu section for food & drinks
+- Image gallery for showcasing ambiance
+- Contact section with location & timings
+- Clean, simple, and customizable code structure
 
-Menu section for food & drinks
 
-Image Gallery section
+---
 
-Contact section with location & timings
 
-Clean and minimal UI
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
 
-Easy to customize
 
-🛠️ Tech Stack
+---
 
-HTML5
 
-CSS3
+## 🎯 Purpose of This Project
+This project demonstrates:
+- Building a responsive layout using Bootstrap
+- Structuring clean and reusable front-end code
+- Designing visually appealing UI sections
+- Creating a professional website suitable for real businesses
 
-Bootstrap 5
 
-✨ What I Learned
+---
 
-Building responsive layouts using Bootstrap
 
-Designing clean UI sections
-
-Working with grid systems and utility classes
-
-Improving front-end structuring and styling
+## 📜 License
+This project is free to use for learning and portfolio purposes.
