@@ -39,9 +39,3 @@ This project demonstrates:
 - Designing visually appealing UI sections
 - Creating a professional website suitable for real businesses
 
-
----
-
-
-## 📜 License
-This project is free to use for learning and portfolio purposes.
